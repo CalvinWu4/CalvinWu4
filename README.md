@@ -4,7 +4,7 @@
 <p align="left"> 
   I'm a full stack developer and recent software engineering grad from Rochester Institute of Technology. Currently, I'm building Chrome extensions that make peoples' lives easier. 
   
-  In my free time, I love reading, bicycling, playing badminton, hiking, playing video games, visiting museums (pre-Covid), and listening to angsty music.  
+  In my free time, I love reading, bicycling, playing badminton, hiking, playing video games, visiting museums (pre-Covid), and listening to angsty songs.  
 
 Fun fact: I'm a huge journalism and politics junkie. I went through months of reading the New York Times and The Economist cover-to-cover on my commute before I discovered audiobooks. I get excited for debate and election nights and even follow international politics.
 </p>
