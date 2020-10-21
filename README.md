@@ -12,7 +12,7 @@ Fun fact: I'm a huge journalism and politics junkie. I went through months of re
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/linkedin.com/in/calvin-wu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin.com/in/calvin-wu" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/calvin-wu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin.com/in/calvin-wu" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
