@@ -6,7 +6,7 @@
   
   In my free time, I love reading, bicycling, playing badminton, hiking, playing video games, visiting museums (pre-Covid), and listening to angsty music.  
 
-Fun fact: I'm a huge journalism and politics junkie. I went through months of reading the New York Times and The Economist cover-to-cover before I discovered audiobooks. I get excited for debate and election nights and even follow international politics.
+Fun fact: I'm a huge journalism and politics junkie. I went through months of reading the New York Times and The Economist cover-to-cover on my commute before I discovered audiobooks. I get excited for debate and election nights and even follow international politics.
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=calvinwu4&label=Profile%20views&color=0e75b6&style=flat" alt="calvinwu4" /> </p>
