@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Calvin</h1>
-<h3 align="center">A lover of learning</h3>
+<h3 align="center">A self-motivated learner</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=calvinwu4&label=Profile%20views&color=0e75b6&style=flat" alt="calvinwu4" /> </p>
 
