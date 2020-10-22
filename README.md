@@ -7,14 +7,19 @@
 <p align="left"> 
   I'm a full stack developer and recent software engineering grad from Rochester Institute of Technology. Currently, I'm building Chrome extensions that make peoples' lives easier. 
   
-  In my free time, I love reading, bicycling, playing badminton, hiking, playing video games, visiting museums (pre-Covid), and listening to angsty songs.  
+  In my free time, I love reading, bicycling, playing badminton, hiking, playing video games, visiting museums (pre-Covid), and listening to angsty songs.
 
-Fun fact: I'm a huge journalism and politics junkie. I went through months of reading the New York Times and The Economist cover-to-cover on my commute before I discovered audiobooks. I get excited for debate and election nights and even follow international politics.
-</p>
+⚡ Fun fact **I'm a huge journalism and politics junkie. I get excited for debate and election nights and even follow international politics.**
 
-<h3 align="left">📚 Currently reading</h3>
+🔭 I’m currently working on [making a college-agnostic version of the Rate my Professors extension](https://github.com/CalvinWu4/Rate-My-Professor-Extension)
+
+🌱 I’m currently learning **Leetcode :(**
+
+
+📚 I'm currently reading
 
 [<img width="50" src=https://www.goodreads.com/user/email_signature_cover/122258550>](https://www.goodreads.com/user/email_signature_destination/122258550?utm_medium=cover&utm_source=email_signature)
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
