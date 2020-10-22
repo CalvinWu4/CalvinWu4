@@ -9,14 +9,14 @@
   
   In my free time, I love reading, bicycling, playing badminton, hiking, playing video games, visiting museums (pre-Covid), and listening to angsty songs.
 
-⚡ Fun fact **I'm a huge journalism and politics junkie. I live for ideas and debate. I get excited for debate and election nights and even follow international politics.**
+⚡ Fun fact: I'm a huge journalism and politics junkie. I live for ideas and debate. I get excited for debate and election nights and even follow international politics.
 
-🔭 I’m currently working on [making a college-agnostic version of the Rate my Professors extension](https://github.com/CalvinWu4/Rate-My-Professor-Extension)
+🔭 I’m currently working on: [making a college-agnostic version of the Rate my Professors extension](https://github.com/CalvinWu4/Rate-My-Professor-Extension)
 
-🌱 I’m currently learning **Leetcode :(**
+🌱 I’m currently learning: Leetcode :(
 
 
-📚 I'm currently reading
+📚 I'm currently reading:
 
 [<img width="50" src=https://www.goodreads.com/user/email_signature_cover/122258550>](https://www.goodreads.com/user/email_signature_destination/122258550?utm_medium=cover&utm_source=email_signature)
 </p>
