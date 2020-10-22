@@ -9,7 +9,9 @@
 Fun fact: I'm a huge journalism and politics junkie. I went through months of reading the New York Times and The Economist cover-to-cover on my commute before I discovered audiobooks. I get excited for debate and election nights and even follow international politics.
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=calvinwu4&label=Profile%20views&color=0e75b6&style=flat" alt="calvinwu4" /> </p>
+<h3 align="left">📚 Currently reading</h3>
+
+[<img width="50" src=https://www.goodreads.com/user/email_signature_cover/122258550>](https://www.goodreads.com/user/email_signature_destination/122258550?utm_medium=cover&utm_source=email_signature)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -21,7 +23,4 @@ Fun fact: I'm a huge journalism and politics junkie. I went through months of re
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=calvinwu4&show_icons=true&locale=en" alt="calvinwu4" /></p>
 
-<h5 align="left">Currently Reading</h5>
-
-[<img width="50" src=https://www.goodreads.com/user/email_signature_cover/122258550>](https://www.goodreads.com/user/email_signature_destination/122258550?utm_medium=cover&utm_source=email_signature)
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=calvinwu4&label=Profile%20views&color=0e75b6&style=flat" alt="calvinwu4" /> </p>
