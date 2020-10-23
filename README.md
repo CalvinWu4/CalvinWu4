@@ -9,7 +9,7 @@
   
   In my free time, I love reading, bicycling, playing badminton, hiking, playing video games, visiting museums (pre-Covid), and listening to angsty songs.
 
-⚡ Fun fact: I'm a huge journalism and politics junkie. I live for ideas and debate. I get excited for debate and election nights and even follow international politics.
+⚡ Fun fact: I'm a huge journalism and politics junkie. I live for ideas and debate. I even follow international politics.
 
 🔭 I’m currently working on: [making a college-agnostic version of the Rate my Professors extension](https://github.com/CalvinWu4/Rate-My-Professor-Extension)
 
