@@ -13,9 +13,6 @@
 
 🔭 I’m currently working on: [making an improved and multi-college version of the Rate my Professors extension](https://github.com/CalvinWu4/Multi-College-Rate-My-Professor-Extension)
 
-🌱 I’m currently learning: Leetcode 😞
-
-
 📚 I'm currently reading:
 
 [<img width="50" src=https://www.goodreads.com/user/email_signature_cover/122258550>](https://www.goodreads.com/user/email_signature_destination/122258550?utm_medium=cover&utm_source=email_signature)
