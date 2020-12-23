@@ -5,9 +5,9 @@
 
 <h3 align="left">About me:</h3>
 <p align="left"> 
-  I'm a full stack developer and recent software engineering grad from Rochester Institute of Technology. Currently, I'm building Chrome extensions that make peoples' lives easier. 
+  I'm a full stack developer and recent software engineering grad from Rochester Institute of Technology.
   
-  I love books, video games, running, badminton, hiking, museums (pre-Covid), and angsty songs.
+  I love books, running, video games, and angsty songs.
 
 ⚡ Fun fact: I'm a huge journalism and politics junkie. I live for ideas and debate. I even follow international politics.
 
