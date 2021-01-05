@@ -13,7 +13,7 @@
 
 📚 I'm currently reading:
 
-[<img width="50" src=https://www.goodreads.com/user/email_signature_cover/122258550>](https://www.goodreads.com/user/email_signature_destination/122258550?utm_medium=cover&utm_source=email_signature)
+[<img width="50" src=https://www.goodreads.com/user/email_signature_cover/122258550>](https://www.goodreads.com/user/show/122258550-calvin-wu)
 </p>
 
 <h3 align="left">Connect with me:</h3>
