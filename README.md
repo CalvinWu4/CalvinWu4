@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Calvin</h1>
 <h3 align="center">A self-motivated learner</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=calvinwu4&label=Profile%20views&color=0e75b6&style=flat" alt="calvinwu4" /> </p>
-
 <h3 align="left">About me:</h3>
 <p align="left"> 
   I'm a full stack developer and recent software engineering grad from Rochester Institute of Technology.
