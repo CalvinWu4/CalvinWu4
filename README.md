@@ -5,7 +5,7 @@
 <p align="left"> 
   I'm a full stack developer and recent software engineering grad from Rochester Institute of Technology.
   
-  I love reading classics and journalism, running, video games, and angsty songs.
+  I love reading, running, biking, badminton, video games, and angsty songs.
 
 ⚡ Fun fact: I'm a huge journalism and politics junkie. I live for ideas and debate. I even follow international politics.
 
