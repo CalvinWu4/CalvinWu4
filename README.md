@@ -3,7 +3,7 @@
 
 <h3 align="left">About me:</h3>
 <p align="left"> 
-  I'm a full stack developer and recent software engineering grad from Rochester Institute of Technology.
+  I'm a developer with a love for creating browser extensions that make people's lives easier.
   
   I love reading, running, biking, badminton, video games, and angsty songs.
   
