@@ -5,7 +5,7 @@
 <p align="left"> 
   I'm a developer with a love for creating browser extensions that make people's lives easier.
   
-  I love reading, running, video games, game nights, biking, badminton, and being outside.
+  In my free time, I love reading, running, video games, game nights, biking, badminton, and being outside.
   
   I'm most compatible with people who are interested in history, literature, politics, and philosophy. But, I also feel that life should be lived and not just thought about.
 
