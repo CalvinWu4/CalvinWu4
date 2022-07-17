@@ -5,9 +5,7 @@
 <p align="left"> 
   I'm a developer with a love for creating browser extensions that make people's lives easier.
   
-  In my free time, I enjoy reading, running, biking, badminton, video games, thrifting, finding new recipes, and being outside.
-  
-  I'm most compatible with people who are interested in history, literature, politics, and philosophy. But, I also feel that life should be lived and not just thought about.
+You can find me after work listening to an audiobook while running or biking through Golden Gate Park. On weekends, I'll be at brunch or the farmers market or be out of town exploring some part of California.
 
 📚 I'm currently reading:
 
