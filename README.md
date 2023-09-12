@@ -5,8 +5,6 @@
 <p align="left"> 
   I'm a developer with a love for creating browser extensions that make people's lives easier.
   
-You can find me after work listening to an audiobook while running or biking through Golden Gate Park. On weekends, I'll be at brunch or the farmers market or out of town exploring some part of California.
-
 📚 I'm currently reading:
 
 [<img width="50" src=https://www.goodreads.com/user/email_signature_cover/122258550>](https://www.goodreads.com/user/show/122258550-calvin-wu)
